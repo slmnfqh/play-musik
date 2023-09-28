@@ -8,8 +8,4 @@ The brain of this website is JavaScript; here are the features on the website.
 6. Shuffle
 7. Display 
 
-# Install 
-```
-$ git clone https://github.com/Agililham/play_music.git
-```
 
